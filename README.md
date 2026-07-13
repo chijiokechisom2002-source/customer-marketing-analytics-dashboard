@@ -251,32 +251,29 @@ Visuals
 
 # 📸 Dashboard Preview
 
-### Executive Overview
+## Executive Overview
 
-(Add screenshot here)
-
----
-
-### Spending Analysis
-
-(Add screenshot here)
+![Executive Overview](images/overview-dashboard.png)
 
 ---
 
-### Marketing Campaign Performance
+## Customer Spending Analysis
 
-(Add screenshot here)
+![Customer Spending Analysis](images/spending-dashboard.png)
 
 ---
 
-# 🎥 Dashboard Walkthrough
+## Marketing Campaign Performance
 
-A short video demonstration of the interactive dashboard is included.
+![Marketing Campaign Performance](images/campaign-dashboard.png)
 
-```
-Video Demo/
-Customer Analytics Dashboard | SQL, Python & Power BI.mp4
-```
+---
+
+## Complete Dashboard
+
+![Complete Dashboard](images/full-dashboard.png)
+
+---
 
 ---
 
