@@ -273,14 +273,11 @@ Visuals
 ![Marketing Campaign Performance](images/campaign-dashboard.png)
 
 ---
+# 🎥 Dashboard Walkthrough
 
-## Complete Dashboard
+A short video demonstration of the interactive dashboard is available below.
 
-![Complete Dashboard](images/full-dashboard.png)
-
----
-
----
+▶️ **[Watch the Dashboard Demo](video/customer-analytics-dashboard-demo.mp4)**
 
 # 📈 Skills Demonstrated
 
