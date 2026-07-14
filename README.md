@@ -17,6 +17,11 @@ This project analyzes customer data to answer questions such as:
 - Which marketing campaigns perform best?
 - How do demographics influence spending?
 - Which purchasing channels are most popular?
+- # 📊 Customer Analytics Dashboard | SQL • Python • Power BI
+
+An end-to-end Customer Analytics project built using SQL, Python, and Microsoft Power BI.
+
+![Customer Analytics Dashboard](images/full-dashboard.png)
 
 ---
 
