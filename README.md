@@ -304,7 +304,7 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 # 📬 Connect With Me
 
 **LinkedIn:**
-linkedin.com/in/chisom-chijioke-68a08a263
+https://linkedin.com/in/chisom-chijioke-68a08a263
 
 **GitHub:**
 https://github.com/chijiokechisom2002-source
